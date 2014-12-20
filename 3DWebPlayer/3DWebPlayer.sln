@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B1D7D55A-A127-73BD-79C0-1680D3BE483F}") = "3DWebPlayer", "Assembly-CSharp.csproj", "{8DA70566-5FF7-BDC2-5A0E-DF174F1ECAE0}"
+EndProject
+Project("{B1D7D55A-A127-73BD-79C0-1680D3BE483F}") = "3DWebPlayer", "Assembly-CSharp-Editor.csproj", "{D8749D9F-E7F8-F557-A92A-F14FA78DCCF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA70566-5FF7-BDC2-5A0E-DF174F1ECAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA70566-5FF7-BDC2-5A0E-DF174F1ECAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA70566-5FF7-BDC2-5A0E-DF174F1ECAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA70566-5FF7-BDC2-5A0E-DF174F1ECAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8749D9F-E7F8-F557-A92A-F14FA78DCCF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8749D9F-E7F8-F557-A92A-F14FA78DCCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8749D9F-E7F8-F557-A92A-F14FA78DCCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8749D9F-E7F8-F557-A92A-F14FA78DCCF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																						GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
